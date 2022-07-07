@@ -1,0 +1,1 @@
+export const dataQuestion = 'https://proyecto-sprint2.herokuapp.com/question'

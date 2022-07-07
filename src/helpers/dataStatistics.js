@@ -1,0 +1,1 @@
+export const dataStatistics = 'https://proyecto-sprint2.herokuapp.com/statistics'
